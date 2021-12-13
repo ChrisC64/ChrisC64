@@ -5,7 +5,7 @@
 - 🕸 Check me out on the web at: codefungames.com
 - 🌱 I’m currently learning Game Development/Game Engine Systems
 - 💞️ I’m looking to collaborate on Games!
-- 📫 How to reach me: chriscarlos64@hotmail.com
+- 📫 How to reach me: christopher.carlos@outlook.com
 
 <!---
 ChrisC64/ChrisC64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
