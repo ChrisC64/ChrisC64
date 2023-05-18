@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisC64
-- 🛠 C++, C#, Direct3D 11, and Android experience
+- 🛠 C++, C#, Direct3D 11/12, and Android experience
 - 👨‍💼 I work as a Windows software developer (currently) building an in-house graphics engine with C# interface using C++/CLR technologies and Direct3D 11
 - 👀 I’m interested in C++/C# technologies and Game Development. 
 - 🕸 Check me out on the web at: codefungames.com
